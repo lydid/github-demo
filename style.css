@@ -10,6 +10,8 @@ img {
   border-radius: 3px;
   box-shadow: 5px 5px 10px #6d6d72;
   margin-bottom: 1em;
+  float: left;
+  margin-right: 20px;
 }
 
 html,
