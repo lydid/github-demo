@@ -67,3 +67,19 @@ a {
 iframe {
   margin-bottom: 1em;
 }
+
+form {
+  margin-left: 15px;
+}
+
+input {
+  margin-top: 5px;
+}
+
+input[type="submit"] {
+  padding: 3px 5px;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
