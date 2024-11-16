@@ -47,10 +47,22 @@ p {
   margin-bottom: 1em;
   text-align: justify;
 }
+.text-in-frame {
+  border: 2px dotted rgb(29, 124, 93);
+  padding: 7px;
+}
+
+a {
+  text-decoration: none;
+}
 
 img {
   width: 300px;
   margin-bottom: 1em;
   border-radius: 3px;
   box-shadow: 5px 5px 10px #6d6d72;
+  margin-bottom: 1em;
+}
+iframe {
+  margin-bottom: 1em;
 }
