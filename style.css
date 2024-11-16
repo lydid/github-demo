@@ -4,19 +4,17 @@
   padding: 0;
 }
 
+img {
+  width: 300px;
+  margin-bottom: 1em;
+  border-radius: 3px;
+  box-shadow: 5px 5px 10px #6d6d72;
+  margin-bottom: 1em;
+}
+
 html,
 body {
   height: 100%;
-}
-
-body {
-  line-height: 1.5;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  width: 50%; 
 }
 
 html {
@@ -47,6 +45,7 @@ p {
   margin-bottom: 1em;
   text-align: justify;
 }
+/* třída odstavce s ohraničením */
 .text-in-frame {
   border: 2px dotted rgb(29, 124, 93);
   padding: 7px;
@@ -56,13 +55,6 @@ a {
   text-decoration: none;
 }
 
-img {
-  width: 300px;
-  margin-bottom: 1em;
-  border-radius: 3px;
-  box-shadow: 5px 5px 10px #6d6d72;
-  margin-bottom: 1em;
-}
 iframe {
   margin-bottom: 1em;
 }
