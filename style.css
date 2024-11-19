@@ -37,6 +37,7 @@ body {
   margin: 0 auto;
   background-color: #ebebeb;
   padding: 1.5em;
+  position: relative;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -95,8 +96,8 @@ input[type="radio"] {
 .date {
   text-align: right;
   padding: 2px;
-  position: relative;
-  top: -45px;
-  right: 25px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
   font-style: italic;
 }
