@@ -101,3 +101,13 @@ input[type="radio"] {
   top: 20px;
   font-style: italic;
 }
+#click-button {
+  background-color: rgb(235, 198, 63);
+  border: 2px solid #333;
+  border-radius: 10px;
+  padding: 8px;
+  font-size: 1.1em;
+  position: fixed;
+  bottom: 20px;
+  right: 40px;
+}
